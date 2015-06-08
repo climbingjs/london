@@ -6,7 +6,7 @@ This is a regular meetup for JavaScript developers to go climbing while debating
 
 Climbing costs £10 per visit or £20 for a one-off [introductory session](http://archclimbingwall.com/lessons/introduction-lesson/) (includes equiment hire and is recommended for beginners).
 
-Beginners are more than welcome. Please see the [issues](./issues) for the next meetup.
+Beginners are more than welcome. If you have questions please visit the gitter chat room or open an [issue](./issues).
 
 # Code of conduct
 
