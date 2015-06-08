@@ -4,9 +4,9 @@
 
 This is a regular meetup for JavaScript developers to go climbing while debating the finer points of asynchronous flow control. It takes place every Tuesday evening after work at [Buliding One](http://archclimbingwall.com/building-1/) at the Biscuit Factory in Bermondsey.
 
-Climbing costs £10 per visit or £20 for a one-off [introductory session](http://archclimbingwall.com/lessons/introduction-lesson/) (includes equiment hire and is recommended for beginners).
+Climbing costs £10 per visit or £20 for a one-off [introductory session](http://archclimbingwall.com/lessons/introduction-lesson/) - recommended for beginners.  Fees include equiment hire.  Free drop-in sessions for improvers are also run on the night.
 
-Beginners are more than welcome. If you have questions please visit the gitter chat room or open an [issue](./issues).
+If you have any questions please visit the gitter chat room or open an [issue](./issues).
 
 # Code of conduct
 
