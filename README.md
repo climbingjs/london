@@ -5,8 +5,8 @@
 This is a regular meetup for JavaScript developers to go climbing while debating the finer points of asynchronous flow control. It takes place every Tuesday evening after work at either:
 
 * [The Reach](http://www.thereach.org.uk) in Woolwich
-* [Buliding One](http://archclimbingwall.com/building-1/) at the Biscuit Factory in Bermondsey
-* [Vauxwall](http://archclimbingwall.com/building-1/) in the railway arches underneath Vauxhall overground
+* [Buliding One](http://archclimbingwall.com/building-1) at the Biscuit Factory in Bermondsey
+* [Vauxwall](http://www.vauxwallclimbing.co.uk) in the railway arches underneath Vauxhall overground
 
 Climbing is around £10 per session plus a few quid for shoes if you don't have them.
 
